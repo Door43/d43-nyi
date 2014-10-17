@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyi:home|Door43 (nyi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyi|d43-nyi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyi/archive/master.zip|d43-nyi.zip]]
+
+**Recent Changes**
+{{changes>ns = nyi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyi|Ethnologue data]]
+
